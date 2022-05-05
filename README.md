@@ -1,3 +1,5 @@
+Update: the app has been deployed at https://dapper-bublanina-dc94cf.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
